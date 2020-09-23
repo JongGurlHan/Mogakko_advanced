@@ -31,7 +31,7 @@
 						<th class="text-center d-none d-md-table-cell">글번호</th>
 						<th class="text-center ">지역</th>
 						<th class="w-50">제목</th>
-						<th class="text-center d-none d-md-table-cell">작성자</th>
+						<th class="text-center d-none d-md-table-cell">이름</th>
 						<th class="text-center d-none d-md-table-cell">작성날짜</th>
 					</tr>
 				</thead>

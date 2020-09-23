@@ -6,7 +6,7 @@
 	}
 </style>
 </div>
-<div class="container-fluid bg-dark text-white" style=" bottom: 0; position:fixed; padding-top:30px;padding-bottom:20px; z-index: 1;">
+<div class="container-fluid bg-dark text-white" style=" bottom: 0; position:fixed; padding-top:17px;padding-bottom:17px; z-index: 1;">
 		
 		<!-- style="margin-top:50px;margin-bottom:0px;padding-top:30px;padding-bottom:20px;position:absolute;bottom:0; z-index: 1;" -->
 		<div class="container">

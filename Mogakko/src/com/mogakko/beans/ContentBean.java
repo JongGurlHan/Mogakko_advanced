@@ -26,12 +26,7 @@ public class ContentBean {
     private String content_writer_id;
     
     //선택자- 지역선택
-    private String content_location;
-    
-    //위도
-    private double content_lat;
-    //경도
-    private double content_lng;
+    private String content_location;	
     
     public int getContent_idx() {
 		return content_idx;
@@ -102,18 +97,6 @@ public class ContentBean {
 	}
 	public void setContent_location(String content_location) {
 		this.content_location = content_location;
-	}
-	public double getContent_lat() {
-		return content_lat;
-	}
-	public void setContent_lat(double content_lat) {
-		this.content_lat = content_lat;
-	}
-	public double getContent_lng() {
-		return content_lng;
-	}
-	public void setContent_lng(double content_lng) {
-		this.content_lng = content_lng;
 	}
 
 	

@@ -53,15 +53,6 @@
 							<form:textarea path="content_text" class="form-control" rows="10" style="resize:none"/>
 							<form:errors path="content_text" style='color:red'></form:errors>
 						</div>
-						
-						<div class="form-group">
-							<form:label path="content_text">내용</form:label> 
-							<form:textarea path="content_text" class="form-control" rows="10" style="resize:none"/>
-							<form:errors path="content_text" style='color:red'></form:errors>
-						</div>
-						
-						
-						
 						<div class="form-group">
 							<form:label path="upload_file">첨부 이미지</form:label>
 							<form:input type='file' path="upload_file" class="form-control" accept="image/*"/>
